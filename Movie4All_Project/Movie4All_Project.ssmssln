@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Movie4All_Project_MárioOliveira", "Movie4All_Project_MárioOliveira\Movie4All_Project_MárioOliveira.ssmssqlproj", "{33F52870-23F2-4F6D-9DDB-FADCB2C17705}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0846BD6-99D5-461A-A7C9-FE8B0E72C944}.Default|Default.ActiveCfg = Default
+		{33F52870-23F2-4F6D-9DDB-FADCB2C17705}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63D390C8-DCEF-4BE4-A498-8E72CEF022D4}
+	EndGlobalSection
+EndGlobal
